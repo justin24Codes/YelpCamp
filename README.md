@@ -3,7 +3,7 @@ As an outdoor enthusiast, I'm constantly seeking new places to explore. Welcome 
 
 ## Technologies
 **Frontend:**
-HTML, CSS, JavaScript, Bootstrap
+HTML, CSS, JavaScript, Bootstrap, EJS
 </br>
 **Backend:**
 Express.js, Node.js, MongoDB, Mongoose
